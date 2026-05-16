@@ -50,21 +50,3 @@ The site is designed to give donors clear, trustworthy information and a simple 
 ## Links
 
 - Website: https://hmfund.org
-
-## Related projects
-
-A network of related web tools, Telegram bots and Mini Apps:
-
-- [TON Liquid Staking Platform](https://github.com/DeFiTON/ton-liquid-staking-platform)
-- [Telegram Stars CPA Tasks Bot](https://github.com/DeFiTON/telegram-stars-cpa-tasks-bot)
-- [Telegram SMM Services Bot + URL Shortener](https://github.com/DeFiTON/telegram-smm-services-bot-urlgo)
-- [Telegram Social Media Auto-Posting Bot](https://github.com/DeFiTON/telegram-social-media-autoposting-bot)
-- [Telegram ID Checker Bot](https://github.com/DeFiTON/telegram-id-checker-bot)
-- [Crypto Trading Chat Access Bot](https://github.com/DeFiTON/crypto-trading-chat-access-bot)
-- [Telegram Video Downloader Bot — SaveFastVideoFree](https://github.com/DeFiTON/telegram-video-downloader-bot-savefast)
-- [Telegram Video Downloader Bot — SaveAsVideoFree](https://github.com/DeFiTON/telegram-video-downloader-bot-saveas)
-- [Telegram Video Downloader Bot — SaveVideoPro](https://github.com/DeFiTON/telegram-video-downloader-bot-savepro)
-- [Telegram Mini App Tap Game — smmtake.ru](https://github.com/DeFiTON/telegram-miniapp-tap-game-smmtake)
-- [Telegram Mini App Tap Game — stenbit.ru](https://github.com/DeFiTON/telegram-miniapp-tap-game-stenbit)
-- [Telegram Mini App Tap Game — likfool.ru](https://github.com/DeFiTON/telegram-miniapp-tap-game-likfool)
-- [Telegram Mini App Tap Game — Terminus](https://github.com/DeFiTON/telegram-miniapp-tap-game-terminus)
